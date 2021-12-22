@@ -1,4 +1,4 @@
-local Aiming = 
+local Aiming = https://raw.githubusercontent.com/Scriptboy123/Blingsocoolwyd/main/SilentAimSource
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
